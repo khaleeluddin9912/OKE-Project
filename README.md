@@ -1,7 +1,5 @@
 # Deploy 2048 Game on Oracle Kubernetes Engine (OKE)
 
-![Screenshot 2023-08-03 at 7 57 15 PM](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/93b06a9f-67f9-404f-b0ad-18e3095b7353
-
 This project is the OCI equivalent of the AWS DevOps Zero-to-Hero Day-22 Kubernetes 2048 application.
 
 The application is deployed on **Oracle Kubernetes Engine (OKE)** and exposed to the internet using the **OCI Native Ingress Controller**.
