@@ -18,7 +18,6 @@ Add:
 
 ```yaml
 apiVersion: apps/v1
-
 kind: Deployment
 metadata:
   name: deployment-2048
