@@ -27,6 +27,7 @@ spec:
   selector:
     matchLabels:
       app: app-2048
+
   template:
     metadata:
       labels:
